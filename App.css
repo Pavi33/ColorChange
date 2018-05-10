@@ -1,0 +1,30 @@
+#root{
+    padding:50px;
+}
+
+
+.App-square
+{
+    width: 300px;
+	height: 300px;
+    box-shadow: 0px 0px 35px 0px #333;
+    margin-bottom : 15px;
+}
+
+
+.App input{
+    padding:10px;
+    font-size:16px;
+    border:2px solid #ccc;
+}
+
+.App button
+{
+    padding:10px;
+    color:#fff;
+    border:2px solid #666;
+    margin:10px;
+    background-color: #666;
+    font-size: 16px;
+        
+}
